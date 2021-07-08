@@ -1,20 +1,3 @@
-Skip to content
-hax0rtahm1d
-/
-Reverse-Engineering
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Reverse-Engineering/b11/.main.py
-@htr-tech
-htr-tech BotolMehedi/b11
- 1 contributor
-120 lines (109 sloc)  3.75 KB
 
 # Decompiled by HTR-TECH | SHAZAHN
 # Github : https://github.com/shazahn-howladear
@@ -137,17 +120,3 @@ def z():
     os.system("python2 .README.md")
 if __name__=="__main__":
     u()
-
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
